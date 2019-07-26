@@ -1,0 +1,3 @@
+The dataset has 100 breast cancer samples available (including 50 pathologic complete response (GSE25066-Normal) samples and 50 residual disease (GSE25066-Tumor) samples (sample per column)) and 12,634 genes (features) (gene per row). The first column indicates gene index, and the second column shows the reference gene expression value. The sample gene expression data starts from the third column.
+
+Reference: DOI: http://dx.doi.org/10.17632/v3cc2p38hb.1#file-c6b0b7d3-a63d-4ec7-87d5-ac2b81f38e00

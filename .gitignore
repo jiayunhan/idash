@@ -1,0 +1,7 @@
+__pycache__/
+*.hdf5
+*.pyc
+wheels/
+*.egg-info/
+*.egg
+**/*.pyc
